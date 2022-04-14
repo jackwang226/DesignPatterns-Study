@@ -26,5 +26,8 @@ public class DuckTest {
 
         redDuck.fly();
         redDuck.quack();
+
+        redDuck.setFly(new SkyFly());
+        redDuck.fly();
     }
 }
