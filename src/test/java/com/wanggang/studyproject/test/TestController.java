@@ -10,6 +10,7 @@ package com.wanggang.studyproject.test;
 public class TestController {
     public static void main(String[] args) {
         System.out.println("看到这里cherry-pick D 失败");
+        System.out.println("看到这里cherry-pick E 成功");
 
     }
 }
