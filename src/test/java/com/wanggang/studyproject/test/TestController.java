@@ -8,4 +8,7 @@ package com.wanggang.studyproject.test;
  * 2022/4/15 17:21
  */
 public class TestController {
+    public static void main(String[] args) {
+
+    }
 }
